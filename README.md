@@ -2,7 +2,9 @@
 
 <details>
 <summary>Go安装</summary>
-官网：https://golang.org/doc/install，下载安装go
+官网：https://golang.org/doc/install
+
+下载安装go
 然后在`.zshrc`或者`.bashrc`里面配置环境变量
 
 ```
